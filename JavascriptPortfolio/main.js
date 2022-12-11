@@ -28,3 +28,4 @@ switch (story) {
 }
 const format = shortStory.join(' ');
 console.log(format);
+//new data git practice
